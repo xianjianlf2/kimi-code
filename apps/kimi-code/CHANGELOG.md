@@ -1,5 +1,13 @@
 # @moonshot-ai/kimi-code
 
+## 0.29.3
+
+### Patch Changes
+
+- [#2147](https://github.com/MoonshotAI/kimi-code/pull/2147) [`29783e4`](https://github.com/MoonshotAI/kimi-code/commit/29783e471afcf7975852e496907646458264d2e6) Thanks [@wbxl2000](https://github.com/wbxl2000)! - Show a quota consumption note after installing official plugins that bill against plan quota (such as Kimi Datasource).
+
+- [#2147](https://github.com/MoonshotAI/kimi-code/pull/2147) [`29783e4`](https://github.com/MoonshotAI/kimi-code/commit/29783e471afcf7975852e496907646458264d2e6) Thanks [@wbxl2000](https://github.com/wbxl2000)! - Show an update notice when a turn that used an outdated plugin ends and the Official Marketplace has a newer version; each new version is announced once. Run /plugins to install the latest version.
+
 ## 0.29.2
 
 ### Patch Changes
